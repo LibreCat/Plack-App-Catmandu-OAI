@@ -1,5 +1,7 @@
 package Plack::App::Catmandu::OAI;
 
+our $VERSION = '0.01';
+
 use Catmandu::Sane;
 use Catmandu::Util qw(:is io);
 use Catmandu::Error;
