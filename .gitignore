@@ -4,7 +4,7 @@
 .perl-version
 .tidyall.d/
 Build
-/Pack-Middleware-Catmandu-OAI-*
+/Plack-App-Catmandu-OAI-*
 demo/logs
 LICENSE
 MANIFEST*
