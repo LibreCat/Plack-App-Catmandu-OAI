@@ -1,6 +1,6 @@
 package Plack::App::Catmandu::OAI;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Catmandu::Sane;
 use Catmandu::Util qw(:is io);
