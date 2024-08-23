@@ -1,6 +1,7 @@
 Revision history for Plack::App::Catmandu::OAI
 
 {{$NEXT}}
+  - first real release
 
 0.01  2024-07-30 11:25:57 CEST
   - first release
